@@ -1,3 +1,5 @@
+# SHEDATE
+
 # Análisis de proporción de escuelas ubicadas en zonas rurales que atienden a estudiantes con discapacidad en comparación con aquellas ubicadas en zonas urbanas o mixtas.
 
 Realizado por: *Ivana Machuca*, *Carolina Molina*, *Elsa Marín*, *Helen Cervera* Y *Yurle Araujo*. 
