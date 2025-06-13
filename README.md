@@ -1,4 +1,4 @@
-# SHEDATE
+# SHEDATA
 
 # Análisis de proporción de escuelas ubicadas en zonas rurales que atienden a estudiantes con discapacidad en comparación con aquellas ubicadas en zonas urbanas o mixtas.
 
