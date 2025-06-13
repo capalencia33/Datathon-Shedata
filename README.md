@@ -1,5 +1,7 @@
 # Análisis de proporción de escuelas ubicadas en zonas rurales que atienden a estudiantes con discapacidad en comparación con aquellas ubicadas en zonas urbanas o mixtas.
 
+Realizado por: *Ivana Machuca*, *Carolina Molina*, *Elsa Marín*, *Helen Cervera* Y *Yurle Araujo*. 
+
 Este proyecto corresponde a una propuesta de análisis de datos educativos en el contexto colombiano. Utiliza un enfoque de ciencia de datos para explorar si existen diferencias en la proporción de escuelas con atención a estudiantes con discapacidad según la ubicación geográfica de los establecimientos educativos (zonas rurales vs. urbanas).
 
 ## Problema de investigación
@@ -55,7 +57,7 @@ El trabajo fue realizado de manera colaborativa, con una distribución flexible 
 •	*Helen Cervera*. Encargada de la limpieza de datos, análisis exploratorio, actualización de los datos en Power BI y de la creación del README.
 •	*Yurle Araujo*. Encargada de la limpieza de datos, del desarrollo del modelo predictivo y de la generación de gráficas predictivas.
 
-## Pasos Realizados}
+## Pasos Realizados
 
 1.	**Diseño de identidad visual del equipo:** se definió el nombre del grupo, paleta de colores, logo y estilo visual para mantener coherencia en las piezas gráficas y presentaciones.
 2.	**Organización de tareas:** se definieron las diferentes tareas a realizar en un tablero de Trello, al que todas las integrantes tenían acceso. En este, se iba actualizando diariamente el estado de las tareas a medida que se iba trabajando. Enlace: https://trello.com/invite/b/683f9f5dfca3a519c60413cd/ATTIca0f20506930c28eab8970aa91a36db19318A35F/shedata-datathon-trabajo 
