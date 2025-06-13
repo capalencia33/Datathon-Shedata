@@ -74,12 +74,12 @@ El trabajo fue realizado de manera colaborativa, con una distribución flexible 
 ## Resultados obtenidos
 
 Durante el desarrollo del proyecto se obtuvieron los siguientes productos:
-•	**Dataset limpio y transformado:** base de datos procesada con nuevas variables y lista para análisis, generada a partir del conjunto original del Ministerio de Educación.
-•	**Análisis exploratorio con visualizaciones:** gráficos básicos y cruzados (por zona, departamento y atención a discapacidad) que facilitaron la comprensión del problema.
-•	**Modelo predictivo (DecisionTree):** se entrenó un modelo de clasificación para predecir la ubicación geográfica de las escuelas (zona rural o urbana) a partir de variables relacionadas con la atención a estudiantes con discapacidad.
-•	**Dashboard interactivo en Power BI:** herramienta visual para explorar la atención a estudiantes con discapacidad por zona, departamento, nivel educativo, y otros filtros.
-•	**Presentación final en Google Slides:** diapositivas que resumen el planteamiento, el proceso y los hallazgos más importantes del proyecto, usadas para la sustentación final.
-•	**README Documentado:** archivo que sistematiza el trabajo realizado, incluyendo la descripción del reto, hipótesis, metodología, pasos ejecutados y productos entregables.
+1. 	**Dataset limpio y transformado:** base de datos procesada con nuevas variables y lista para análisis, generada a partir del conjunto original del Ministerio de Educación.
+2.	**Análisis exploratorio con visualizaciones:** gráficos básicos y cruzados (por zona, departamento y atención a discapacidad) que facilitaron la comprensión del problema.
+3.	**Modelo predictivo (DecisionTree):** se entrenó un modelo de clasificación para predecir la ubicación geográfica de las escuelas (zona rural o urbana) a partir de variables relacionadas con la atención a estudiantes con discapacidad.
+4.	**Dashboard interactivo en Power BI:** herramienta visual para explorar la atención a estudiantes con discapacidad por zona, departamento, nivel educativo, y otros filtros.
+5.	**Presentación final en Google Slides:** diapositivas que resumen el planteamiento, el proceso y los hallazgos más importantes del proyecto, usadas para la sustentación final.
+6.	**README Documentado:** archivo que sistematiza el trabajo realizado, incluyendo la descripción del reto, hipótesis, metodología, pasos ejecutados y productos entregables.
 
 ## Estructura del Repositorio
 
